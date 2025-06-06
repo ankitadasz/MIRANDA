@@ -32,6 +32,21 @@ html,body{
 }
 .navbar i{
     font-size: 20px;
-    font-weight: 800;
+    font-weight: 700;
+    
+}
+
+
+
+
+
+
+@media (max-width:600px) {
+    .navbar h5{
+        font-size: 8px;
+    }
+    .navbar img{
+        margin-left: 60px;
+    }
     
 }
